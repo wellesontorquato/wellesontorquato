@@ -1,16 +1,81 @@
-## Hi there 👋
+# Hi 👋, I'm Welleson Torquato
 
-<!--
-**wellesontorquato/wellesontorquato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full Stack Developer | PHP, Laravel & Python**  
+🇧🇷 Brazil
 
-Here are some ideas to get you started:
+I build **web systems**, **automations**, and **SaaS-oriented solutions** focused on real-world problems.  
+My work is driven by **efficiency**, **clean code**, **process automation**, and **business results**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m experienced with **APIs**, **databases**, **web scraping**, and **system integrations**, always aiming to simplify operations and generate value through technology.
+
+---
+
+## 🌐 Where to find me
+
+<p align="left">
+  <a href="https://github.com/wellesontorquato">
+    <img src="https://img.shields.io/badge/GitHub-HERBERTCARNAUBADESOUZA-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://instagram.com/wtor4">
+    <img src="https://img.shields.io/badge/Instagram-@wtor4-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+---
+
+## 🧠 What I do
+
+-   🏗️ SaaS & High-scale systems
+-   ⚡ Performance optimization
+-   🧩 Clean architecture & system design
+-   🔐 Secure APIs & authentication
+-   💳 Payments, subscriptions & business logic
+-   🤖 Automation & integrations
+-   📊 Dashboards & analytics
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+
+### Backend
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff)
+![Laravel](https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=fff)
+
+### Banco de Dados
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+
+### APIs & Automação
+
+![REST API](https://img.shields.io/badge/REST_API-4CAF50?style=for-the-badge&logo=fastapi&logoColor=fff)
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-1f2937?style=for-the-badge&logo=python&logoColor=fff)
+
+
+---
+
+# 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wellesontorquato&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellesontorquato&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Philosophy
+
+> _"Technology should solve real problems.  
+> I focus on building practical, scalable, and efficient solutions that generate real value."_
+
+---
+
+⭐ If you like my work, consider starring a repository  
+🤝 Always open to collaborations, partnerships, and new ideas
