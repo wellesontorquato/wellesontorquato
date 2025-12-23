@@ -12,9 +12,6 @@ I focus on **clean code**, **scalability**, **automation**, and **business-drive
 
 ---
 
-
----
-
 ## 🌐 Where to find me
 
 <p align="left">
@@ -24,6 +21,10 @@ I focus on **clean code**, **scalability**, **automation**, and **business-drive
   <a href="https://instagram.com/wtor4">
     <img src="https://img.shields.io/badge/Instagram-@wtor4-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+
+
+---
+
 
 ## 🧠 What I do
 
