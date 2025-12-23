@@ -1,12 +1,17 @@
 # Hi 👋, I'm Welleson Torquato
 
-🚀 **Full Stack Developer | PHP, Laravel & Python**  
+🚀 **Full Stack Developer | PHP, Laravel, Blade & Tailwind CSS**  
 🇧🇷 Brazil
 
-I build **web systems**, **automations**, and **SaaS-oriented solutions** focused on real-world problems.  
-My work is driven by **efficiency**, **clean code**, **process automation**, and **business results**.
+I build **web systems**, **dashboards**, and **SaaS-oriented applications** using modern frontend and backend stacks.  
+My frontend work includes **HTML**, **CSS**, **JavaScript**, **Blade templates**, and **Tailwind CSS**, always focused on clean UI, usability, and performance.
 
-I’m experienced with **APIs**, **databases**, **web scraping**, and **system integrations**, always aiming to simplify operations and generate value through technology.
+On the backend, I work mainly with **Laravel** and **Python (Flask)**, developing **APIs**, **automations**, **web scraping solutions**, and **system integrations** connected to relational databases.
+
+I focus on **clean code**, **scalability**, **automation**, and **business-driven solutions** that generate real value.
+
+---
+
 
 ---
 
@@ -40,6 +45,8 @@ I’m experienced with **APIs**, **databases**, **web scraping**, and **system i
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![Blade](https://img.shields.io/badge/Blade-E74430?style=for-the-badge&logo=laravel&logoColor=fff)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=000)
 
 ### Backend
 
@@ -57,6 +64,7 @@ I’m experienced with **APIs**, **databases**, **web scraping**, and **system i
 
 ![REST API](https://img.shields.io/badge/REST_API-4CAF50?style=for-the-badge&logo=fastapi&logoColor=fff)
 ![Web Scraping](https://img.shields.io/badge/Web_Scraping-1f2937?style=for-the-badge&logo=python&logoColor=fff)
+
 
 
 ---
