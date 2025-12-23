@@ -14,7 +14,7 @@ I’m experienced with **APIs**, **databases**, **web scraping**, and **system i
 
 <p align="left">
   <a href="https://github.com/wellesontorquato">
-    <img src="https://img.shields.io/badge/GitHub-HERBERTCARNAUBADESOUZA-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-wellesontorquato-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/wtor4">
     <img src="https://img.shields.io/badge/Instagram-@wtor4-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
